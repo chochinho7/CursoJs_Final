@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "RTX 3060",
+        "marca": "MSI",
+        "urlImg": "https://asset.msi.com/resize/image/global/product/product_1610444725b6aa81c4e74a8ea9fee28fdd225b58cc.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "precio": 135000,
+        "stock": 54
+    },
+    {
+        "nombre": "RTX 3070",
+        "marca": "MSI",
+        "urlImg": "https://asset.msi.com/resize/image/global/product/product_1610444725b6aa81c4e74a8ea9fee28fdd225b58cc.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "precio": 135000,
+        "stock": 54
+    },
+    {
+        "nombre": "RTX 3080",
+        "marca": "MSI",
+        "urlImg": "https://asset.msi.com/resize/image/global/product/product_1610444725b6aa81c4e74a8ea9fee28fdd225b58cc.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "precio": 135000,
+        "stock": 54
+    },
+    {
+        "nombre": "RTX 3090",
+        "marca": "MSI",
+        "urlImg": "https://asset.msi.com/resize/image/global/product/product_1610444725b6aa81c4e74a8ea9fee28fdd225b58cc.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "precio": 135000,
+        "stock": 54
+    },
+    {
+        "nombre": "RTX 3090ti",
+        "marca": "MSI",
+        "urlImg": "https://asset.msi.com/resize/image/global/product/product_1610444725b6aa81c4e74a8ea9fee28fdd225b58cc.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "precio": 135000,
+        "stock": 54
+    },
+    {
+        "nombre": "RTX 3080ti",
+        "marca": "MSI",
+        "urlImg": "https://asset.msi.com/resize/image/global/product/product_1610444725b6aa81c4e74a8ea9fee28fdd225b58cc.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "precio": 135000,
+        "stock": 54
+    },
+    {
+        "nombre": "RTX 3070ti",
+        "marca": "MSI",
+        "urlImg": "https://asset.msi.com/resize/image/global/product/product_1610444725b6aa81c4e74a8ea9fee28fdd225b58cc.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "precio": 135000,
+        "stock": 54
+    }
+]
